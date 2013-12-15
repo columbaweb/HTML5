@@ -1,0 +1,47 @@
+<footer role="contentinfo">
+	Обычно применяется к подвалу (footer). Так же данная роль может быть 		
+	обозначена на странице лишь единожды.
+
+<a role='button' … >
+
+<header role="banner">
+	Логически этой ролью наделяется шапка сайта (header).
+
+<nav id="nav" role="navigation">
+	Набор навигационных элементов (как правило, ссылки) для навигации по 
+	документу или связанных с ним документов
+
+<main id="main" role=“main”>
+
+<div id="content" class="site-content" role="main">
+
+<article role="main">
+
+<article role="article">
+
+<aside role=“complementary">
+	testimonial
+	Важная часть контента, но не основная.Чаще всего принадлежит к области 
+	страницы, называемой боковой колонкой (sidebar, leftbar, rightbar).
+
+<form role="search">
+	Определяет область поиска на странице. Как правило, это форма, 
+	используемая для отправки поисковых запросов
+
+<div role=“slider">
+	slider
+
+<div role=”link”>A link</div>
+
+role=”form”
+
+<label for=“tc">
+
+<input type="checkbox" value="yes" name="tc" id="tc" required aria-required=“true">
+
+role="presentation" on the image - removes the semantics from the element it is on.
+
+<div aria-describedby="test" tabindex="0">text</div>
+
+<div id="test" role="tooltip">tooltip text</div>
+
